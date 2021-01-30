@@ -1,2 +1,2 @@
 # openvpn-pia
-OpenVPN NordVPN with Alpine base
+OpenVPN NordVPN with Ubunutu base
